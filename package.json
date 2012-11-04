@@ -1,0 +1,27 @@
+{
+  "name": "codehero",
+  "version": "0.0.1",
+  "description": "Guitar-Hero style game for programmers",
+  "main": "app.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "tapas": "",
+    "canvas": "",
+    "imagediff": "",
+    "codemirror": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/moul/codehero"
+  },
+  "keywords": [
+    "code",
+    "hero",
+    "game",
+    "programming"
+  ],
+  "author": "Manfred Touron <m@42.am>",
+  "license": "MIT"
+}
